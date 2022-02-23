@@ -1,6 +1,10 @@
 # armstrong_query
 A function created to determine whether a given number is an Armstrong number.
 
+
+
+
+
 def armstrong_query():
     el_numerico = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "0"}
     number = input("Please enter a number :")
